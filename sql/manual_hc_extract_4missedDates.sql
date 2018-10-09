@@ -1,0 +1,1 @@
+select * from movers_gainers  where Date = '2018-08-09' and percent_gain >10 order by percent_gain desc

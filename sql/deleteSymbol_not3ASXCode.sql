@@ -1,0 +1,1 @@
+delete from stock where length(Symbol) >3

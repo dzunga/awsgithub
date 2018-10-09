@@ -1,0 +1,1 @@
+delete from stock where Symbol in ('XAF','XAO','XAT','XDI','XDJ','XEC','XEJ','XFJ','XFL','XGD','XHJ','XIJ','XJO','XJR','XKO','XLD','XMD','XMJ','XNJ','XNT','XNV','XPJ','XSJ','XSO','XTJ','XTL','XTO','XUJ','XXJ')

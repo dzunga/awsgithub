@@ -1,0 +1,1 @@
+select * from movers2 where Date between '2018-04-05' AND '2018-04-05 23:59:59'

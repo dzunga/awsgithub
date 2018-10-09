@@ -1,0 +1,1 @@
+select * from stockvma where Symbol='anz' order by Date desc

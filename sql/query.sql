@@ -1,0 +1,1 @@
+select * from stockvma where Symbol='lyc' order by Date desc

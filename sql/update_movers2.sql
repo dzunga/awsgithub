@@ -1,0 +1,1 @@
+update stock set Symbol='inf' where Symbol = 'plh'
